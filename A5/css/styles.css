@@ -7,7 +7,7 @@ body#body1 {
     font-family: 'NotoSansHans';
     margin: 0;
     padding: 0;
-    background-image: url(/img/bg.png);
+    background-image: url(img/bg.png);
     color: aliceblue;
 }
 
@@ -15,7 +15,7 @@ body#body2 {
     font-family: 'NotoSansHans';
     margin: 0;
     padding: 0;
-    background-image: url(/img/bg2.png);
+    background-image: url(img/bg2.png);
     color: aliceblue;
 }
 body {
